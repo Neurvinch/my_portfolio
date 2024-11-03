@@ -20,7 +20,6 @@
   },
   "scripts": {
     "homepage": "https://Neurvinch.github.io/my_portfolio",
-
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -45,7 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "tailwindcss": "^3.4.14"
   }
-  
 }
