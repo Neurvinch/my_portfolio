@@ -2,6 +2,7 @@
   "name": "my_portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Neurvinch.github.io/my_portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@gsap/react": "^2.1.1",
@@ -19,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://Neurvinch.github.io/my_portfolio",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
